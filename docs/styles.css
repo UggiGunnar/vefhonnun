@@ -1,5 +1,6 @@
 body {
-    background-color: lightblue;
+	background-image: url('background4.jpg');
+    background-color: grey;
 }
 
 h1 {
@@ -8,6 +9,39 @@ h1 {
 }
 
 p {
+	font-family: "Impact", sans-serif;
+	color: white;
+	text-align: center;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 4em;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+}
+
+h3 {
+	color: blue;
+	text-align: center;
+}
+
+h4 {
+	color: yellow;
+	text-align: center;
+}
+
+h5 {
+	color: green;
+	text-align: center;
+}
+
+title {
+	color: black;
+	text-align: center;
+}
+
+h6 {
+	color: purple;
+	text-align: center;
 }
